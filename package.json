@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "matter-attractors": "^0.1.6",
+    "matter-js": "^0.20.0",
+    "matter-tools": "^0.14.0"
+  }
+}
